@@ -1,0 +1,13 @@
+.question {
+    color: red;
+    margin-bottom: 10px;
+}
+.unsvers {
+    margin-bottom: 10px;
+}
+.fullPage {
+    margin-top: 50px;
+    min-height: 150px;
+    font-weight: bold;
+    text-align: center;
+}

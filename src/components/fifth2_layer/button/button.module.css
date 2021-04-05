@@ -1,0 +1,27 @@
+.pseudoButton{
+        display: block;
+    background-color: red;
+color: white;
+    font-weight: bold;
+    font-size: 2em;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10px;
+    border-width: 10px;
+    border-style: solid;
+    border-image:
+            radial-gradient(
+                    rgba(12, 32, 112, 10),
+                    rgba(12, 32, 72, 10)
+            )1   ;
+}
+.pseudoButton:hover{
+
+    /*transform: scale(1.1);*/
+    border-image:
+            radial-gradient(
+                    rgba(12, 32, 112, 10),
+                    rgba(12, 32, 172, 10)
+            )1   ;
+}

@@ -1,0 +1,41 @@
+.MainDiv {
+    text-align: center;
+    font-weight: bold;
+
+    /*background: url("./../../accets/sky.jpg") no-repeat;*/
+    /*background-size: 100%;*/
+    /*width: 80%;*/
+    /*margin-right: 10%;*/
+    /*margin-left: 10%;*/
+    /*margin-top: 250px;*/
+    /*height: 500px;*/
+    /*border: transparent 1px solid;*/
+    /*border: red solid;*/
+    background-color: #e9efc8;
+}
+
+.bigBox {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    /*border: red solid;*/
+    display: flex;
+}
+
+
+.box1 {
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    /*border: green 3px solid;*/
+    min-height: 150px;
+    background-color: blue;
+}
+
+.box2 {
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    /*border: green 3px solid;*/
+    background-color: grey;
+}

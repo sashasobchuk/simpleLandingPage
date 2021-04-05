@@ -1,0 +1,16 @@
+.MainDiv{
+    position: absolute;
+    background-color: red;
+    overflow: hidden;
+    width: 100%;
+}
+
+
+@media screen and (max-width:650px ) {
+    .MainDiv{
+        position: absolute;
+        background-color: red;
+        overflow: hidden;
+        width: 100%;
+    }
+}

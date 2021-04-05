@@ -1,0 +1,19 @@
+.fullDiv{
+    display: flex;
+    height: 180px;
+    width: 100%;
+    border: 1px solid black;
+}
+.fullDiv > div{
+    width: 50%;
+    right: 0;
+    position: relative;
+}
+.fullDiv >div >img{
+    height: 100%;
+    float: left;
+}
+.fullDiv >div >span{
+    font-size: 27px;
+    border-right: 3150px;
+}

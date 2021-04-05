@@ -1,0 +1,25 @@
+
+.divIcons{
+    position: fixed;
+    width: 150px;
+    height: auto;
+    right: 10px;
+    bottom: 10px;
+    display: flex;
+}
+.hrefMes{
+    width: 100%;
+    height: 100%;
+}
+
+.hrefWat{
+    width: 100%;
+    height: 100%;
+    transform: scale(1.5);
+}
+
+.img{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+}
