@@ -2,7 +2,7 @@
   "name": "prog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yuribenjamin.github.io/my-app",
+  "homepage": "https://sashasobchuk.github.io/simpleLandingPage",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
