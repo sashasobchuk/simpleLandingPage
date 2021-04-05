@@ -21,11 +21,6 @@ function App() {
           <Seventh/>
           <Eyth/>
           <Nine/>
-          hello
-          <br/> <br/> <br/> <br/> <br/>
-          <br/> <br/> <br/> <br/> <br/> <br/> <br/>
-          <br/> <br/> <br/> <br/> <br/>
-
       </div>
   );
 }
